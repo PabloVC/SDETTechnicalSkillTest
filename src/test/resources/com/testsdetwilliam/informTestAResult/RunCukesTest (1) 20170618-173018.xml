@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunCukesTest (2)" project="testSDETWilliam" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.testsdetwilliam.RunCukesTest" time="75.529">
+    <testsuite name="Feature: Tech test stage William Hill possition" time="75.529">
+      <testsuite name="Scenario: William Hill authentication and list games A-Z" time="75.529">
+        <testcase name="Given William Hill website" classname="Scenario: William Hill authentication and list games A-Z" time="2.995"/>
+        <testcase name="When Authentication with user &quot;WHATA_FOG2&quot; and password &quot;F0gUaTtest&quot;" classname="Scenario: William Hill authentication and list games A-Z" time="72.531"/>
+        <testcase name="Then Count and list all the games in A-Z" classname="Scenario: William Hill authentication and list games A-Z" time="0.003"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
